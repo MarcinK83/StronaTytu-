@@ -1,0 +1,8 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#kropka {
+    list-style-type: disc;
+}
